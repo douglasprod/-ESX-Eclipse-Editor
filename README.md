@@ -10,9 +10,8 @@ Eclipse_CC in your resource directory
 
 Setting config `resources\eclipse_CC\config\config.json`
 
-  Choose language `en/ru`. For add more languag, write us https://discord.gg/4TJSZF4AWH
-  
-  Choose core `esx/eclipse`. 
+  Change language, if you need it.
+
   
 ![image](https://user-images.githubusercontent.com/36680471/146645368-4da57a1b-e8cd-4433-824f-8349a98d6dd6.png)
 
