@@ -1,4 +1,4 @@
-## [ESX]Eclipse_CC_V2
+## [ESX]Eclipse Editor
 
 ## Requirements
 - [es_extended](https://github.com/esx-framework/es_extended/tree/v1-final)
